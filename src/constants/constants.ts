@@ -5,5 +5,5 @@ export const CONSTANTS = {
 	baseUrl: 'http://books.toscrape.com',
 	admin: 'admin',
 
-	isHeadless: false
+	isHeadless: true
 }
